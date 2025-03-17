@@ -1,0 +1,21 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tron3x.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "crypto-price": "0.0.6",
+    "ethereum-address": "0.0.4",
+    "ethereum-input-data-decoder": "^0.4.2",
+    "express": "^4.17.1",
+    "tronweb": "^3.1.0",
+    "web3": "^1.3.5"
+  }
+}
